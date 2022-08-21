@@ -49,6 +49,11 @@ main{
     flex-wrap: wrap;
     justify-content: center;
 }
+.logo{
+    font-family: 'Rubik Moonrocks', cursive;
+    color: orange;
+    size: 20%;
+}
 
 .movie {
     width: 300px;
